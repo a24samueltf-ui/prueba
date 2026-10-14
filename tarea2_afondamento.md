@@ -87,3 +87,4 @@ La primera vez que te intentes conectar te pedirá confirmar la huellas del serv
 3. Ejecuta el comando `hostname` y comprueba que devuelva el nombre correcto dle servidor.
 4. Cierra la sesión con `exit`.
 
+## 5. PRUEBA
