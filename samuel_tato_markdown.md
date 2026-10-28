@@ -78,3 +78,9 @@ Esta documentación se ha elaborado utilizando Markdown.
 
 El control de versiones se realiza mediante Git  
 y el repositorio remoto se encuentra alojado en GitHub.
+
+## Próximas mejoras
+
+- Añadir capturas de pantalla de cada topología.
+- Incluir ejemplos de configuración de red reales.
+- Ampliar la sección de recursos con vídeos y tutoriales.
